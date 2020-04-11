@@ -1,0 +1,8 @@
+{
+  "name": "setup-gcp-uptime-monitors",
+  "version": "1.0.0",
+  "dependencies": {
+    "ow": "^0.17.0",
+    "@google-cloud/monitoring": "^1.7.0"
+  }
+}
